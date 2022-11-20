@@ -15,6 +15,8 @@ Data Analytics : With the help of computer aided detection and machine learning 
 
 A greater and more seamless flow of information within a digital health care infrastructure, created by electronic health records (EHRs), encompasses and leverages digital progress and can transform the way care is delivered and compensated. EHRs helps in improved care coordination. EHRs helps in making health care ecosystem proactive, accessible and authentic. EHRs with the help of computer aided detection will help in early prediction of diseases.
 
+Pitch Deck: https://drive.google.com/drive/u/3/folders/12XyhbqvGHfTZPl_zbc9fO_rJUNvmIQHG
+
 # Implementation
 
 We have developed the decentralized medical counseling application using Ethereum and Filecoin Blockchain powered by FEVM, IPFS, Embark, Chainlink, node.js framework, nvm, javascript frameworks. We are using HTML5 technologies and JavaScript framework for developing the frontend of the application.
@@ -27,4 +29,4 @@ At this juncture, we are planning to use only subscription supported network for
 
 PyDICOM: We are using PyDICOM for anonymizing and encrypting medical data. This data is then served to the counseling application via open source Orthanc PACS.
 
-Data Security of Medical Reports using Nucypher: https://drive.google.com/drive/u/3/folders/12JeVzUx2fsUNnvXOnD8FdUnBdSbkIDGa
+Data Security of Medical Reports using Nucypher: https://drive.google.com/drive/u/3/folders/12XyhbqvGHfTZPl_zbc9fO_rJUNvmIQHG
