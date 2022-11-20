@@ -1,7 +1,7 @@
 # FEVM-Med
 Medical Counseling, preventive treatment and remediation portal powered by Embark and Filecoin eco-system tools. Enable secure data storage &amp; transparency of medical report data. Website: https://sites.google.com/view/fevm-med/home?authuser=6
 
-Medical Counseling, preventive treatment and remediation portal powered by Embark, IPFS, FEVM and Filecoin eco-system tools. We provide secure data storage & transparency of medical counseling report data using decentralized data storage powered by Filecoin, Orthanc PACS (picture archiving and communication system) using NFT.storage, FEVM and Chainlink VRF. Our service aims at providing secure data storage, transparent data movement and data authenticity.
+Medical Counseling, preventive treatment and remediation portal powered by Embark, IPFS, FEVM and Filecoin eco-system tools. We provide secure data storage & transparency of medical counseling report data using decentralized data storage powered by Filecoin, Orthanc PACS (picture archiving and communication system) using NFT.storage, FEVM, Chainlink VRF and Nucypher. Our service aims at providing secure data storage, transparent data movement and data authenticity.
 
 Our decentralized chat application enables medical counselling in a privacy preserved chat like interface powered by IPFS and Filecoin using FEVM and Chainlink VRF.
 
@@ -26,3 +26,5 @@ Chainlink: We utilized Chainlink VRF (Verifiable Random Function) to enable prov
 At this juncture, we are planning to use only subscription supported network for Chainlink VRF. We are also connecting offchain data from medical counseling app to our smart contracts using Chainlink.
 
 PyDICOM: We are using PyDICOM for anonymizing and encrypting medical data. This data is then served to the counseling application via open source Orthanc PACS.
+
+Data Security of Medical Reports using Nucypher: https://drive.google.com/drive/u/3/folders/12JeVzUx2fsUNnvXOnD8FdUnBdSbkIDGa
