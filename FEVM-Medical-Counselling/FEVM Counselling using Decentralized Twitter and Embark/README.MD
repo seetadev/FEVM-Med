@@ -1,5 +1,11 @@
+Medical Counseling, preventive treatment and remediation portal powered by Embark, IPFS, FEVM and Filecoin eco-system tools. We provide secure data storage & transparency of medical counseling report data using decentralized data storage powered by Filecoin, Orthanc PACS (picture archiving and communication system) using NFT.storage, FEVM and Chainlink VRF. Our service aims at providing secure data storage, transparent data movement and data authenticity.
+
+Our decentralized chat application enables medical counselling in a privacy preserved chat like interface powered by IPFS and Filecoin using FEVM and Chainlink VRF.
+
+
+
 ## Decentralized Twitter dApp built using Embark by Status
-Developed for a DappCon workshop, this dApp provides an example of how to build a dApp using Embark. 
+
 ### Instructions
 To follow along, please use the [instructions](./instructions).
 ### FAQ
