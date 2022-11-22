@@ -1,8 +1,4 @@
-# FEVM Hardhat Kit
-
-## Cloning the Repo
-
-Open up your terminal (or command prompt) and navigate to a directory you would like to store this code on. Once there type in the following command:
+FEVM-Med: FEVM enables us to use composable and stackable building blocks and primitives exposed through standardized interfaces, enabling the construction of interconnected picture archiving and medical imaging (PACS) solutions, thereby improving better outcomes for medical counseling, preventive treatment and early stage detection of diseases. Research labs, institutions in medical imaging could also could harvest tokens in a DAO-driven decentralize compute fabric by analyzing radiology datasets in X Rays, MRI and CT Scan, performing scientific and ML modelling using PyTorch and OpenCV, calculate statistics and share early stage medical abnormalities, improving coordinated care and precision medicine.
 
 
 ```
