@@ -4,7 +4,7 @@ NFT for Medical Counseling Requests and for public hospital doctors to improve b
 
 Creating an NFT on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion
 
-We are extending the example for creating an NFT on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion created by @developerally for Medical Counseling.
+We are extending the example for creating an NFT on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion created by @developerally for Medical Counseling Requests and for public hospital doctors to improve better medical counseling outcomes and enable early stage detection of health issues.
 
 
 Contracts found under /pages/api/hardhat
