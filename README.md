@@ -34,6 +34,8 @@ b. FEVM: FEVM enables us to use composable and stackable building blocks and pri
 
 2. https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/TPA-MediLoan-Insurance-FEVM-solidity-api
 
+Early experiments on Hyperspace testnet: please visit https://hyperspace.filfox.info/en/tx/0xd0a88d7d054e8babe6909523e0cc92147d35e0421b16af169eb78b1af6d6c25b and https://hyperspace.filfox.info/en/address/0x19df3bfd0f2020275436653931326ca417e02c73
+
 
 Chainlink: We utilized Chainlink VRF (Verifiable Random Function) to enable provably fair and verifiable random number generator (RNG) for a queuing counselling ticket that further enables smart contracts to access random values without compromising security or usability. For each request, Chainlink VRF generates one or more random values and cryptographic proof of how those values were determined. The proof is published and verified on-chain before any consuming applications can use it. This process ensures that results cannot be tampered with or manipulated by any single entity including oracle operators, miners, users, or smart contract developers.
 
