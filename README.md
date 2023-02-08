@@ -26,15 +26,14 @@ We have developed the decentralized medical counseling application using Ethereu
 
 We are using FVM for:
 
-Generation of NFT for Medical Counseling Requests and for public hospital doctors to improve better medical counseling outcomes and enable early stage detection of health issues: https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/FVM-NFT-Voting-DAO-Quotation/NFT-generator-FVM
+a. Generation of NFT for Medical Counseling Requests and for public hospital doctors to improve better medical counseling outcomes and enable early stage detection of health issues: https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/FVM-NFT-Voting-DAO-Quotation/NFT-generator-FVM
 
-
-
-FEVM: FEVM enables us to use composable and stackable building blocks and primitives exposed through standardized interfaces, enabling the construction of interconnected picture archiving and medical imaging (PACS) solutions, thereby improving better outcomes for medical counseling, preventive treatment and early stage detection of diseases. Research labs, institutions in medical imaging could also could harvest tokens in a DAO-driven decentralize compute fabric by analyzing radiology datasets in X Rays, MRI and CT Scan, performing scientific and ML modelling using PyTorch and OpenCV, calculate statistics and share early stage medical abnormalities, improving coordinated care and precision medicine. We are also using Filecoin based FEVM lending pool library to enable third party administrators to issue medical loans and their reimbursement/claims to the patients in financial distress. Please visit:
+b. FEVM: FEVM enables us to use composable and stackable building blocks and primitives exposed through standardized interfaces, enabling the construction of interconnected picture archiving and medical imaging (PACS) solutions, thereby improving better outcomes for medical counseling, preventive treatment and early stage detection of diseases. Research labs, institutions in medical imaging could also could harvest tokens in a DAO-driven decentralize compute fabric by analyzing radiology datasets in X Rays, MRI and CT Scan, performing scientific and ML modelling using PyTorch and OpenCV, calculate statistics and share early stage medical abnormalities, improving coordinated care and precision medicine. We are also using Filecoin based FEVM lending pool library to enable third party administrators to issue medical loans and their reimbursement/claims to the patients in financial distress. Please visit:
 
 1. https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/FEVM-Med-TPA-Smart-Contract-Hardhat-deploy
 
 2. https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/TPA-MediLoan-Insurance-FEVM-solidity-api
+
 
 Chainlink: We utilized Chainlink VRF (Verifiable Random Function) to enable provably fair and verifiable random number generator (RNG) for a queuing counselling ticket that further enables smart contracts to access random values without compromising security or usability. For each request, Chainlink VRF generates one or more random values and cryptographic proof of how those values were determined. The proof is published and verified on-chain before any consuming applications can use it. This process ensures that results cannot be tampered with or manipulated by any single entity including oracle operators, miners, users, or smart contract developers.
 
