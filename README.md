@@ -22,6 +22,14 @@ Pitch Deck: https://drive.google.com/drive/u/3/folders/12XyhbqvGHfTZPl_zbc9fO_rJ
 
 We have developed the decentralized medical counseling application using Ethereum and Filecoin Blockchain powered by FEVM, IPFS, Embark, Chainlink, node.js framework, nvm, javascript frameworks. We are using HTML5 technologies and JavaScript framework for developing the frontend of the application.
 
+# FVM Blockchain Eco-system
+
+We are using FVM for:
+
+Generation of NFT for Medical Counseling Requests and for public hospital doctors to improve better medical counseling outcomes and enable early stage detection of health issues: https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/FVM-NFT-Voting-DAO-Quotation/NFT-generator-FVM
+
+
+
 FEVM: FEVM enables us to use composable and stackable building blocks and primitives exposed through standardized interfaces, enabling the construction of interconnected picture archiving and medical imaging (PACS) solutions, thereby improving better outcomes for medical counseling, preventive treatment and early stage detection of diseases. Research labs, institutions in medical imaging could also could harvest tokens in a DAO-driven decentralize compute fabric by analyzing radiology datasets in X Rays, MRI and CT Scan, performing scientific and ML modelling using PyTorch and OpenCV, calculate statistics and share early stage medical abnormalities, improving coordinated care and precision medicine. We are also using Filecoin based FEVM lending pool library to enable third party administrators to issue medical loans and their reimbursement/claims to the patients in financial distress. Please visit:
 
 1. https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/FEVM-Med-TPA-Smart-Contract-Hardhat-deploy
