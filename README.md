@@ -1,6 +1,6 @@
 # Medical DAO
 
-Medical Counseling, preventive treatment and remediation portal powered by Embark and Filecoin eco-system tools. Enable secure data storage &amp; transparency of medical report data. Website: https://sites.google.com/view/fevm-med/home?authuser=6
+Medical Counseling, preventive treatment and remediation portal powered by Embark and Filecoin eco-system tools. Enable secure data storage; transparency of medical report data. Website: https://sites.google.com/view/fevm-med/home?authuser=6
 
 Medical Counseling, preventive treatment and remediation portal powered by Embark, IPFS, FEVM and Filecoin eco-system tools. We provide secure data storage & transparency of medical counseling report data using decentralized data storage powered by Filecoin, Orthanc PACS (picture archiving and communication system) using NFT.storage, FEVM, Chainlink VRF and Nucypher. Our service aims at providing secure data storage, transparent data movement and data authenticity.
 
