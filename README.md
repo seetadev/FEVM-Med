@@ -1,8 +1,8 @@
 # Medical DAO
 
-Medical Counseling, preventive treatment and remediation portal powered by Embark and Filecoin eco-system tools. Enable secure data storage; transparency of medical report data. Website: https://sites.google.com/view/fevm-med/home?authuser=6
+Medical Counseling, preventive treatment and remediation portal powered by Embark and Filecoin eco-system tools, Gnosis Blockchain, Request network and Etherspot's Transaction Builder. Enable secure data storage; transparency of medical report data. Website: https://sites.google.com/view/fevm-med/home?authuser=6
 
-Medical Counseling, preventive treatment and remediation portal powered by Embark, IPFS, FEVM and Filecoin eco-system tools. We provide secure data storage & transparency of medical counseling report data using decentralized data storage powered by Filecoin, Orthanc PACS (picture archiving and communication system) using NFT.storage, FEVM, Chainlink VRF and Nucypher. Our service aims at providing secure data storage, transparent data movement and data authenticity.
+Medical Counseling, preventive treatment and remediation portal powered by Embark, IPFS, FEVM and Filecoin eco-system tools, Gnosis Blockchain, Request network and Etherspot's Transaction Builder. We provide secure data storage & transparency of medical counseling report data using decentralized data storage powered by Filecoin, Orthanc PACS (picture archiving and communication system) using NFT.storage, FEVM, Chainlink VRF and Nucypher. Our service aims at providing secure data storage, transparent data movement and data authenticity.
 
 Our decentralized chat application enables medical counselling in a privacy preserved chat like interface powered by IPFS and Filecoin using FEVM and Chainlink VRF.
 
@@ -20,7 +20,7 @@ Pitch Deck: https://drive.google.com/drive/u/3/folders/12XyhbqvGHfTZPl_zbc9fO_rJ
 
 # Implementation
 
-We have developed the decentralized medical counseling application using Ethereum and Filecoin Blockchain powered by FEVM, IPFS, Embark, Chainlink, node.js framework, nvm, javascript frameworks. We are using HTML5 technologies and JavaScript framework for developing the frontend of the application.
+We have developed the decentralized medical counseling application using Ethereum and Filecoin Blockchain powered by FEVM, IPFS, Embark, Chainlink, node.js framework, nvm, javascript frameworks, Gnosis Blockchain, Request network and Etherspot's Transaction Builder. We are using HTML5 technologies and JavaScript framework for developing the frontend of the application.
 
 # FVM Blockchain Eco-system
 
