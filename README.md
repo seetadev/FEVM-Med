@@ -38,9 +38,11 @@ c. FVM Low code developer tooling for health counseling, bills/invoicing managem
 
 # Gnosis blockchain and Web3 ecosystem tools
 
-- Gnosis Blockchain: NFT marketplace for DICOM (radiology) images for developers and practioners, research organizations & radioligists.
+- Gnosis Dev Tooling and integration with SocialCalc spreadsheet for tabulation, organization and visualization of report data: Please visit:
+ https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/Gnosis-DAO-tooling
+- Gnosis Blockchain: NFT marketplace for DICOM (radiology) images for developers and practioners, research organizations & radioligists. 
 
-- Request Network: Medical Invoicing, voting and token management for medical counseling tasks integrated with request network.
+- Request Network: Medical Invoicing, voting and token management for medical counseling tasks integrated with request network. Please visit: https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/invoice and https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/invoice/request-billing-integration
 
 - Etherspot: Account Abstraction Plugins for Medical DAO enables customization of verification logic via Etherspot's Transaction Builder with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs. Implementation areas of Account Abstraction plugins in Medical DAO using EtherSpot's Transaction Builder and Socialcalc:
 
@@ -50,7 +52,9 @@ Restricting interaction with a certain citizen wallet or DAO dApp to a specific 
 
 Defining session keys, which are allowed to initiate medical counseling transactions for only a limited period of time
 
-- Gateway: We are using Gateway RPC end-points to enable feature extraction, identification of vital paramaters from AI training and testing of radiology datasets for modalities like X Rays, CT Scans and MRI data.
+Please visit: https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/encrypting%20medical%20reports%20using%20Nucypher%20re-encryption%20protocol and https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/encrypting%20medical%20reports%20using%20Nucypher%20re-encryption%20protocol/Account_Abstraction/etherspot-transaction-buidler
+
+- Gateway: We are using Gateway RPC end-points to enable feature extraction, identification of vital paramaters from AI training and testing of radiology datasets for modalities like X Rays, CT Scans and MRI data. Please visit: https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/FEVM%20Counselling%20using%20Decentralized%20Twitter%20and%20Embark
 
 Chainlink: We utilized Chainlink VRF (Verifiable Random Function) to enable provably fair and verifiable random number generator (RNG) for a queuing counselling ticket that further enables smart contracts to access random values without compromising security or usability. For each request, Chainlink VRF generates one or more random values and cryptographic proof of how those values were determined. The proof is published and verified on-chain before any consuming applications can use it. This process ensures that results cannot be tampered with or manipulated by any single entity including oracle operators, miners, users, or smart contract developers.
 
