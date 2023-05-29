@@ -15,8 +15,7 @@ Data Uniformity : Data is processed to make it uniform and stored in PACS (Pictu
 Data Analytics : With the help of computer aided detection and machine learning algorithms, data can be further used for analysis and early prediction.
 
 A greater and more seamless flow of information within a digital health care infrastructure, created by electronic health records (EHRs), encompasses and leverages digital progress and can transform the way care is delivered and compensated. EHRs helps in improved care coordination. EHRs helps in making health care ecosystem proactive, accessible and authentic. EHRs with the help of computer aided detection will help in early prediction of diseases.
-
-Pitch Deck: https://drive.google.com/drive/u/3/folders/12XyhbqvGHfTZPl_zbc9fO_rJUNvmIQHG
+Notes: https://drive.google.com/drive/u/3/folders/12XyhbqvGHfTZPl_zbc9fO_rJUNvmIQHG
 
 # Implementation
 
