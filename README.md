@@ -37,6 +37,22 @@ b. FEVM: FEVM enables us to use composable and stackable building blocks and pri
 c. FVM Low code developer tooling for health counseling, bills/invoicing management for medical assistance and care: https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/invoice/FVM-Billing-Dev-Tools-Android 
 
 
+# Gnosis blockchain and Web3 ecosystem tools
+
+- Gnosis Blockchain: NFT marketplace for DICOM (radiology) images for developers and practioners, research organizations & radioligists.
+
+- Request Network: Medical Invoicing, voting and token management for medical counseling tasks integrated with request network.
+
+- Etherspot: Account Abstraction Plugins for Medical DAO enables customization of verification logic via Etherspot's Transaction Builder with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs. Implementation areas of Account Abstraction plugins in Medical DAO using EtherSpot's Transaction Builder and Socialcalc:
+
+Enforcing a spending limit for vital transport assets based on the key used for the transaction.
+
+Restricting interaction with a certain citizen wallet or DAO dApp to a specific key.
+
+Defining session keys, which are allowed to initiate medical counseling transactions for only a limited period of time
+
+- Gateway: We are using Gateway RPC end-points to enable feature extraction, identification of vital paramaters from AI training and testing of radiology datasets for modalities like X Rays, CT Scans and MRI data.
+
 Chainlink: We utilized Chainlink VRF (Verifiable Random Function) to enable provably fair and verifiable random number generator (RNG) for a queuing counselling ticket that further enables smart contracts to access random values without compromising security or usability. For each request, Chainlink VRF generates one or more random values and cryptographic proof of how those values were determined. The proof is published and verified on-chain before any consuming applications can use it. This process ensures that results cannot be tampered with or manipulated by any single entity including oracle operators, miners, users, or smart contract developers.
 
 At this juncture, we are planning to use only subscription supported network for Chainlink VRF. We are also connecting offchain data from medical counseling app to our smart contracts using Chainlink.
