@@ -40,7 +40,7 @@ c. FVM Low code developer tooling for health counseling, bills/invoicing managem
 
 - Gnosis Dev Tooling and integration with SocialCalc spreadsheet for tabulation, organization and visualization of report data: Please visit:
  https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/Gnosis-DAO-tooling
-- Gnosis Blockchain: NFT marketplace for DICOM (radiology) images for developers and practioners, research organizations & radioligists. 
+- Gnosis Blockchain: NFT marketplace for DICOM (radiology) images for developers and practioners, research organizations & radioligists. Please visit NFT generator module at https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/FVM-NFT-Voting-DAO
 
 - Request Network: Medical Invoicing, voting and token management for medical counseling tasks integrated with request network. Please visit: https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/invoice and https://github.com/seetadev/FEVM-Med/tree/main/FEVM-Medical-Counselling/invoice/request-billing-integration
 
